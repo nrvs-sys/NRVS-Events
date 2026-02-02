@@ -1,0 +1,16 @@
+{
+    "name": "NRVS.Events.Runtime",
+    "rootNamespace": "NRVS.Events",
+    "references": [
+        "GUID:437b2184bacff1240898755753882399"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
